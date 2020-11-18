@@ -1,0 +1,18 @@
+Solar Outreach Resources
+------------------------
+
+- Thank you for your interest in our solar outreach resources.
+
+- The following resources include those described in our article 'Opening Pupil's Eyes to the Sun', in the December 2020 issue of Astronomy and Geophysics. 
+
+- If you have any questions regarding these resources, notice any errors, or have direct criticism, please send them to Ryan French at ryan.french.14@ucl.ac.uk.
+
+- Finally, we are aiming to track the number of students using these resources. To help us with this, we would appreciate you filling out the following short survey here - https://forms.gle/5c5LtrPCT4F4gshi9
+
+------------------------
+
+- We plan to continue adding to the resource suite, and aim to add more PowerPoint presentations and introductory Python exercises to the directory by the end of December 2020.
+
+- The current suite of resources are available in the following Google Drive. To utilise the main product, the data analysis code, you will need to download the entire 'EIS_code' folder and reupload to your own drive. Instructions on how to use this code are given in the user guide (located in the same directory).
+
+- Suite of resources - https://drive.google.com/drive/folders/13Lkj3J1yLaDHQjSxiKUJXsg_JEYsRp3W?usp=sharing
