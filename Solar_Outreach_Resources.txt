@@ -11,7 +11,7 @@ Solar Outreach Resources
 
 ------------------------
 
-- We plan to continue adding to the resource suite, and aim to add more PowerPoint presentations and introductory Python exercises to the directory by the end of December 2020.
+- We plan to continue adding to the resource suite, and aim to add introductory Python exercises to the directory by the end of January 2021.
 
 - The current suite of resources are available in the following Google Drive. To utilise the main product, the data analysis code, you will need to download the entire 'EIS_code' folder and reupload to your own drive. Instructions on how to use this code are given in the user guide (located in the same directory).
 
